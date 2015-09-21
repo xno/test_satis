@@ -12,6 +12,15 @@
     "scripts": {
         "post-install-cmd": [
             "bash script/setup.sh"
+        ],
+        "post-package-install": [
+            "bash script/setup.sh"
+        ],
+        "post-update-cmd": [
+            "bash script/setup.sh"
+        ],
+        "post-package-update": [
+            "bash script/setup.sh"
         ]
-    }
+	}
 }
