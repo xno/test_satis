@@ -1,0 +1,12 @@
+{
+    "name": "xno/git-hook",
+    "description": "Hooks for git.",
+    "authors": [
+        {
+            "name": "Cristiano Magro",
+            "email": "cristiano.magro@vola.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
