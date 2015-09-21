@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "scripts": {
+        "post-install-cmd": [
+            "bash script/setup.sh"
+        ]
+    }
 }
